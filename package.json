@@ -1,7 +1,7 @@
 {
-  "name": "odoo",
-  "version": "0.4.0",
-  "description": "Node.js client library for Odoo using JSON-RPC",
+  "name": "majik-odoo",
+  "version": "0.1.0",
+  "description": "Node.js client library for Odoo using JSON-RPC (supports HTTPS)",
   "main": "./lib/index.js",
   "directories": {
     "test": "test"
@@ -14,18 +14,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/saidimu/odoo"
+    "url": "https://github.com/Majikat/odooo"
   },
   "keywords": [
     "odoo",
-    "openepr",
+    "openerp",
     "jsonrpc"
   ],
-  "author": "Saidimu Apale <saidimu@gmail.com>",
+  "author": "Saidimu Apale <saidimu@gmail.com>; Majikat <dan@hazenfield.com>",
   "bugs": {
-    "url": "https://github.com/saidimu/odoo/issues"
+    "url": "https://github.com/Majikat/odoo/issues"
   },
-  "homepage": "https://github.com/saidimu/odoo",
+  "homepage": "https://github.com/Majikat/odoo",
   "dependencies": {
     "jayson": "^1.2.1",
     "lodash": "^3.10.1"

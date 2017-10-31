@@ -5,13 +5,13 @@ Node.js client library for Odoo
 ## Installation
 
 ```bash
-$ npm install Odoo
+$ npm install majik-odoo
 ```
 
 ## Usage
 
 ```js
-var Odoo = require('Odoo');
+var Odoo = require('majik-odoo');
 
 var odoo = new Odoo({
   host: 'localhost',
